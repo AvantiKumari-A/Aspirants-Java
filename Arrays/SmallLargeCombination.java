@@ -1,10 +1,8 @@
 /*
-Re-arranged array by small – largest combination 
+58. Re-arranged array by small – largest combination 
 Input: [1, 3, 5, 2, 8, 7, 4] 
 Output:[1, 8, 2, 7, 3, 5, 4]
  */
-package Arrays;
-
 import java.util.Arrays;
 
 public class SmallLargeCombination {

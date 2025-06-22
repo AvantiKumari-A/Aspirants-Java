@@ -1,10 +1,8 @@
 /*
-Second largest number in an array 
+57. Second largest number in an array 
 Input:[12, 35, 1, 10, 34, 1] 
 Output:34
  */
-package Arrays;
-
 public class SecondLargestNumber {
     public static void main(String[] args) {
         int a[]={12,35,1,10,34,1};

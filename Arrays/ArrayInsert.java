@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Arrays;
 public class ArrayInsert { // to insert elements in array at random positions
     public static void main(String[] args) {

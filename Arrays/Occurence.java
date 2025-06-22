@@ -1,5 +1,3 @@
-package Arrays;
-
 //same logic for unique number, duplicate number, occurence
 public class Occurence {
     public static void main(String[] args) {

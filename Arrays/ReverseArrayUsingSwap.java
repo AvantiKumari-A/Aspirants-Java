@@ -1,4 +1,3 @@
-package Arrays;
 public class ReverseArrayUsingSwap {
     public static void reverse(int a[]){
         int i=0,j=a.length-1,temp;

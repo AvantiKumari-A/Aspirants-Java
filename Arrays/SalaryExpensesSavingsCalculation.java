@@ -5,7 +5,6 @@
 4) Break down of expense by category 
   ex: Income:1000 
 Type of expense: food Price of food/transport/shopping: 200 */
-package Arrays;
 import java.util.*;
 public class SalaryExpensesSavingsCalculation {
     public static void main(String[] args) {

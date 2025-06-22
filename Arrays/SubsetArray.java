@@ -1,5 +1,3 @@
-package Arrays;
-
 public class SubsetArray {
     public static void main(String[] args) {
         int a1[]={1,2,5,6,3};

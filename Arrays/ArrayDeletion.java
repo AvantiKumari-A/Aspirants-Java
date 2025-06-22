@@ -1,4 +1,4 @@
-package Arrays;
+
 public class ArrayDeletion { // to delete random index value element in array
     public static void main(String[] args){
         int[] a={1,2,3,4,5}; //to delete 3

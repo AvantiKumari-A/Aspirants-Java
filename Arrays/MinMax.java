@@ -1,5 +1,3 @@
-package Arrays;
-
 public class MinMax {
     public static void main(String[] args) {
         int a[]={12,6,90,36,10,65,98};

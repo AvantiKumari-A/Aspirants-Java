@@ -1,4 +1,4 @@
-package Arrays.Matrix;
+package Matrix;
 import java.util.Scanner;
 public class TransposeMatrix {
 public static void main(String[] args) {

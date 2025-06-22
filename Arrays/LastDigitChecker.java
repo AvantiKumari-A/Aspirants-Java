@@ -1,5 +1,3 @@
-package Arrays;
-
 public class LastDigitChecker {
     public static void main(String[] args) {
         int a[]={34,47,86,97,23,67};

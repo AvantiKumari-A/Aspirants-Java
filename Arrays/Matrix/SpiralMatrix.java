@@ -1,4 +1,4 @@
-package Arrays.Matrix;
+package Matrix;
 
 public class SpiralMatrix {
     

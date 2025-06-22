@@ -1,10 +1,8 @@
 /*
-Missing number in an array of shuffled order 
+56. Missing number in an array of shuffled order 
 Input:[3, 7, 1, 2, 8, 4, 5] 
 Output:6
  */
-package Arrays;
-
 public class MissingNumberInAArray {
      public static void main(String[] args) {
         int a[]={3,7,1,2,8,4,5};

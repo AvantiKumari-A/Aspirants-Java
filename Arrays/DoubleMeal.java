@@ -1,4 +1,3 @@
-package Arrays;
 //the square of number should be in that array
 public class DoubleMeal {
     public static void main(String[] args) {
