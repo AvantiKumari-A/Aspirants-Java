@@ -11,7 +11,7 @@ public class FrequencyCount{
     public static void main(String[] args) {
         int a[]={40,20,10,50,20,10,30,40};
         int f[]=new int[a.length];
-        for(int i=0;i<a.length;i++){
+        for(int i=1;i<a.length;i++){
             if(f[i]==-1)
              continue;
             int count=1;
