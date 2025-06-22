@@ -21,7 +21,7 @@ public class FindCommonElementsBetweenTwoArray {
         
         for (int i = 0; i < a.length; i++) {
             for (int j = 0; j < b.length; j++) {
-                if (a[i] == b[j] && b[j] != -1) {
+                if (a[i] == b[j]) {
                     System.out.print(a[i] + " ");
                     b[j] = -1; // mark as used
                     break;
