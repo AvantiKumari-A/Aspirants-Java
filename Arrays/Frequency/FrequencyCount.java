@@ -6,6 +6,7 @@ Output:
 10 -> 2
 50 -> 1
 30 -> 1 */
+
 package Frequency;
 public class FrequencyCount{
     public static void main(String[] args) {
