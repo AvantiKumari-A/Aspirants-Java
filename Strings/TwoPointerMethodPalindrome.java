@@ -12,7 +12,7 @@ public class TwoPointerMethodPalindrome {
     return true;
     }
     public static void main(String args[]){
-        String s="a"; // s = "abba" , "abca" 
+        String s="aba"; // s = "abba" , "abca" 
         System.out.println(palindrome(s));
     }
 }
