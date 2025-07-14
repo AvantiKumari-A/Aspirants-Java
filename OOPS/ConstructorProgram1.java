@@ -47,7 +47,6 @@ public class ConstructorProgram1 {
         String title=sc.nextLine();
         String author=sc.nextLine();
         int price=sc.nextInt();
-        Student[] students=new Student[5];
         Student kunal=new Student(title,author,price);
         kunal.display();
         sc.close();

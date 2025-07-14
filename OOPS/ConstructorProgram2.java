@@ -35,7 +35,6 @@ public class ConstructorProgram2 {
         int g=sc.nextInt();
         int s=sc.nextInt();
         int h=sc.nextInt();
-        MountainBike[] bike=new MountainBike[5];
         MountainBike k=new MountainBike(g,s,h);
         k.display();
         sc.close();
