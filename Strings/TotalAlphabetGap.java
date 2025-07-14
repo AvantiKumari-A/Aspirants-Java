@@ -1,8 +1,9 @@
-/*Given a string of lowercase letters (a=1,b=2,...z=26) 
+/* Given a string of lowercase letters (a=1,b=2,...z=26) 
 Calculate the total alphabetic gap between each adjacent pair of characters using
 Gap=abs(position(s[i+1]-s[i])
 Note: for not include Gap between 1st and last character
-Ex: input1: carrot
+Example: 
+Input1: carrot
 Output1:17 */
 public class TotalAlphabetGap {
     public static void main(String[] args) {
